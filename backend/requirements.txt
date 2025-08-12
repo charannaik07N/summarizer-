@@ -1,0 +1,15 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+langchain>=0.2.2
+langchain-community
+langchain-groq
+faiss-cpu
+sentence-transformers
+pyttsx3
+python-dotenv
+pypdf
+python-multipart
+langchain-huggingface
+groq
+gtts
